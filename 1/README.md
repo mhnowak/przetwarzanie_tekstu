@@ -1,5 +1,5 @@
 # Setup
 
 ```bash
-pip3 install datasets torch
+pip3 install datasets torch matplotlib
 ```
