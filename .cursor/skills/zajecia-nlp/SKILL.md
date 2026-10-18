@@ -45,4 +45,4 @@ Folder `N/` is week N. `N/N.ipynb` is the solution. `N/used_prompts.md` is the p
 
 ## Hand-in
 
-A class task is one `.ipynb` with code, outputs, and the written analysis the chapter asks for. The student sends it by email, or puts it on the faculty Git and emails the link plus the task name. Deadlines are on the organizational page.
+A class task is one `.ipynb` with code, outputs, and the written analysis the chapter asks for.
