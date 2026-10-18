@@ -63,3 +63,15 @@ tool: Antigravity
 model: Gemini 3.8 Flash (High)
 Dodaj w sekcji AI podsekcje z wykorzystanymi promptami, oraz aktualna kopie uzytych skilli oraz AGENTS.md tak, aby zawrzeć wszystko w 1 pliku
 ```
+
+```text
+tool: Antigravity
+model: Gemini 3.8 Flash (Medium)
+Czy wzor funkcji straty SGNS jest zgodny z wykładem https://christop.faculty.wmi.amu.edu.pl/index.php?page=chapter&id=uczenie-glebokie-w-przetwarzaniu-tekstu&topic=osadzenia-i-reprezentacje#section-4. Dlaczego uzywamy przekształconej funkcji? Czy poczatkowy wektor embeddingów nie powinien byc losowy? @[2/2.ipynb] Dopisz ten prompt do tablicy promptów.
+```
+
+```text
+tool: Antigravity
+model: Gemini 3.8 Flash (Medium)
+ok, myślałem, że wg wykresu są one na początku bliskie 0
+```
