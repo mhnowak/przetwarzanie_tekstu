@@ -4,3 +4,4 @@
 - Write explanatory comments or markdown prose only in the specific sections, plots, or examples where the assignment instructions explicitly ask for an explanation, analysis, or comment.
 - Keep comments and analytical text concise and directly focused on answering the course requirements.
 - In descriptions, conclusions, comments, and README, always use the ASCII hyphen `-` and straight quotes `"`.
+- Consolidate all imports and random seed settings in the first point/cell of the notebook template.
