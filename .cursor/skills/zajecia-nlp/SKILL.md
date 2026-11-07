@@ -30,7 +30,7 @@ Folder `N/` is week N. `N/N.ipynb` is the solution. `N/used_prompts.md` is the p
 ## Implement
 
 4. Change only the requested part. Keep every part of the week's task in the same notebook when the chapter says so.
-5. Leave runnable code, saved outputs, and a short comment beside each plot or example the chapter asks to show.
+5. Leave runnable code and saved outputs. Add markdown prose or a comment only where the chapter or the student asks for an explanation, analysis, or comment. Otherwise a section gets its heading alone.
 6. Use markdown headings so each part of the task is easy to find.
 7. Record the seed when the task asks for an experiment.
 8. Fit vocabularies, tokenizers, and model selection on the training and validation splits. Score the chosen checkpoint once on the test split.

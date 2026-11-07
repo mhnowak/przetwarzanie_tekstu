@@ -1,0 +1,1108 @@
+{
+  "train_loss": [
+    4.300466861372477,
+    3.599191766498961,
+    3.2630586200767064,
+    3.019154456201053,
+    2.8302540934951304,
+    2.6836036936473993,
+    2.5685481393782745,
+    2.479144103978731,
+    2.4083105647922856,
+    2.3499041852233464,
+    2.3003330418255286,
+    2.257657899946668,
+    2.2206071919803088,
+    2.1900799463074807,
+    2.160951998760959,
+    2.135483126052704,
+    2.1139344786390493,
+    2.094390657321544,
+    2.0727088656219617,
+    2.055804734879121,
+    2.039673980413393,
+    2.022859472760672,
+    2.0089982147118324,
+    1.99828613629297,
+    1.9855898086814168,
+    1.974051080768034,
+    1.962468941054934,
+    1.9519302399485026,
+    1.9425072790163045,
+    1.9356804001181747,
+    1.92395758093776,
+    1.91577135341915,
+    1.9085444580243787,
+    1.9021066744843542,
+    1.8933797441177838,
+    1.8887739010307514,
+    1.8802305817436096,
+    1.872682714177526,
+    1.8681845986391836,
+    1.8636686719703408,
+    1.859572363423479,
+    1.8532642390654834,
+    1.8493053313318755,
+    1.8417752719445086,
+    1.837008895398275,
+    1.8342341246134093,
+    1.8324594067193454,
+    1.8269224571723879,
+    1.8216714004298866,
+    1.8207063391602194,
+    1.816584745371974,
+    1.8143453572664126,
+    1.812314550539064,
+    1.8088744348995007,
+    1.8044924427630307,
+    1.802640405506097,
+    1.8003999367926955,
+    1.7967158954354177,
+    1.7960805483609263,
+    1.7929683799433416,
+    1.7905309658487274,
+    1.7898848042371243,
+    1.7868466726116508,
+    1.786395948383375,
+    1.7838097820405738,
+    1.7837555930257019,
+    1.7827614393774351,
+    1.7818169701083584,
+    1.7797656943426015,
+    1.775736079412121,
+    1.7765651121947823,
+    1.7755601933571987,
+    1.7758305321605043,
+    1.7766128792194353,
+    1.7732294677112712,
+    1.775683259528276,
+    1.7755051174264092,
+    1.773709861278705,
+    1.773297334934733,
+    1.7733114590429082,
+    1.7729671994312726,
+    1.7752020038766334,
+    1.7736694871167986,
+    1.7757945570270481,
+    1.7744415570888101,
+    1.7742770369750913,
+    1.7774088420218321,
+    1.772758661468766,
+    1.7789460465223492,
+    1.7778376250384258,
+    1.779156154554504,
+    1.7793954090754078,
+    1.7824869763661022,
+    1.7818357014828026,
+    1.782821763392399,
+    1.7855952577410872,
+    1.7822713034202533,
+    1.785158173010377,
+    1.784709331520125,
+    1.788768801736629
+  ],
+  "val_loss": [
+    4.0975303835812396,
+    3.919605875122231,
+    3.872298527420503,
+    3.8777778574141695,
+    3.900350043490913,
+    3.9379857481517306,
+    3.975746037337217,
+    4.014677866766567,
+    4.0503747738956015,
+    4.080324973419701,
+    4.117869722619083,
+    4.153929018610968,
+    4.188032637618484,
+    4.210825434599397,
+    4.242309683629105,
+    4.276341204946829,
+    4.306080427838928,
+    4.329780406867802,
+    4.353225522687948,
+    4.366432584778951,
+    4.395769998794312,
+    4.4301556392235,
+    4.448231920543455,
+    4.470441245604826,
+    4.491285547041198,
+    4.509755502049973,
+    4.537164286338067,
+    4.554854434244943,
+    4.553783894507378,
+    4.564112282817395,
+    4.595414290417464,
+    4.6040224571225075,
+    4.6251446958612545,
+    4.630027616956334,
+    4.649401895129562,
+    4.660927813318901,
+    4.671959118692949,
+    4.687506303236141,
+    4.718777554821062,
+    4.707402597956917,
+    4.73074238599292,
+    4.750630167803761,
+    4.753678960498436,
+    4.768520258138247,
+    4.778490457382079,
+    4.790243089046908,
+    4.790687139048842,
+    4.805505145404846,
+    4.82955737854273,
+    4.8409606409504455,
+    4.852443805729107,
+    4.845894445922597,
+    4.8490746622711915,
+    4.866903198081656,
+    4.888261668890694,
+    4.875475145966896,
+    4.888856373318684,
+    4.892047604985568,
+    4.914280983857068,
+    4.909837877555819,
+    4.929326123904304,
+    4.944578609730663,
+    4.939493715952137,
+    4.952514544563946,
+    4.967468804694148,
+    4.968911504490964,
+    4.975234731569583,
+    4.962398009389867,
+    4.987036901476802,
+    4.991416649631404,
+    5.008489793346774,
+    4.995226018655841,
+    5.026085378546961,
+    5.0369250985930005,
+    5.042625948384438,
+    5.013867945776947,
+    5.026410592481156,
+    5.040742588640781,
+    5.055361035012716,
+    5.056524258289941,
+    5.06741244479215,
+    5.064214348027626,
+    5.063885361594797,
+    5.079291736091974,
+    5.08275940361622,
+    5.067905730858861,
+    5.092417963310803,
+    5.102944608463934,
+    5.101296168206564,
+    5.124504475930345,
+    5.1098235921091755,
+    5.123898203765616,
+    5.123214847980487,
+    5.111036972148591,
+    5.124087527483054,
+    5.134334304230003,
+    5.149376299741457,
+    5.1534948578435635,
+    5.143465818952701,
+    5.142951522098853
+  ],
+  "greedy": [
+    {
+      "epoch": 1,
+      "translations": [
+        "i thought you'd be a good idea .",
+        "did you get it ?",
+        "- i don't know how many times .",
+        "the <unk> of the <unk> <unk> , <unk> , <unk> , <unk> ."
+      ]
+    },
+    {
+      "epoch": 2,
+      "translations": [
+        "i thought i was thinking .",
+        "did you hear that ?",
+        "- did you take a drink ?",
+        "<unk> , you can get the <unk> of <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 3,
+      "translations": [
+        "i thought i was thinking about it .",
+        "is that the <unk> ?",
+        "- did you know what i say ?",
+        "<unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 4,
+      "translations": [
+        "- i thought i was thinking .",
+        "is that a little <unk> ?",
+        "- did you know what i want ?",
+        "<unk> , the <unk> of the <unk> <unk> , <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 5,
+      "translations": [
+        "i thought i was thinking .",
+        "what is it ?",
+        "- do you want a drink ?",
+        "the <unk> , the <unk> of the <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 6,
+      "translations": [
+        "i thought i was thinking of the <unk> .",
+        "as long as a <unk> ?",
+        "- did you find the slugs ?",
+        "the <unk> , the <unk> of the <unk> , the <unk> of the <unk> of the <unk> ."
+      ]
+    },
+    {
+      "epoch": 7,
+      "translations": [
+        "i thought i'd like to .",
+        "the way to see the flower ?",
+        "- did you get a drink ?",
+        "the <unk> , the <unk> of the <unk> <unk> , the <unk> of the <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 8,
+      "translations": [
+        "- i thought i was thinking .",
+        "as a <unk> ?",
+        "- did you get a drink ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 9,
+      "translations": [
+        "- i thought i was thinking .",
+        "as a <unk> ?",
+        "- did you get a drink ?",
+        "<unk> , the <unk> of the <unk> , the <unk> of the <unk> <unk> of <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 10,
+      "translations": [
+        "i thought i'd like to say that .",
+        "as a <unk> ?",
+        "- did you know the drugs ?",
+        "the <unk> , the <unk> of the population , the <unk> of the <unk> of the <unk> ."
+      ]
+    },
+    {
+      "epoch": 11,
+      "translations": [
+        "- i thought i was thinking about it .",
+        "as a <unk> ?",
+        "- did you get the fuck out of the boat ?",
+        "<unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 12,
+      "translations": [
+        "i thought it was a little more .",
+        "what kind of <unk> ?",
+        "- did you get the name of the clothes ?",
+        "the <unk> , the <unk> , the <unk> , the <unk> , the <unk> , the <unk> , the <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 13,
+      "translations": [
+        "- i thought it was a \" <unk> \" .",
+        "what the hell ?",
+        "- did you get the wrong info ?",
+        "<unk> , <unk> , <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 14,
+      "translations": [
+        "- i thought it was the <unk> .",
+        "what is it ?",
+        "- did you get a drink ?",
+        "<unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 15,
+      "translations": [
+        "- i thought it was a \" . \"",
+        "what is the <unk> ?",
+        "- did you get the desk ?",
+        "<unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> ,"
+      ]
+    },
+    {
+      "epoch": 16,
+      "translations": [
+        "i thought you said \" i thought \" . \"",
+        "as a as a backup ?",
+        "- you were a smoke ?",
+        "<unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 17,
+      "translations": [
+        "i thought you did it \" unpleasant \" .",
+        "as a as a <unk> ?",
+        "- did you get some lunch ?",
+        "the <unk> of <unk> , <unk> <unk> , <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 18,
+      "translations": [
+        "- i thought you were gonna do it .",
+        "as a regular ?",
+        "- are you still a little less than a coffee ?",
+        "the <unk> of <unk> , the <unk> of the <unk> concerned is to be <unk> ."
+      ]
+    },
+    {
+      "epoch": 19,
+      "translations": [
+        "- i thought it was a \" . \"",
+        "as a backup ?",
+        "- did you smoke the drinking ?",
+        "the <unk> of the <unk> , the <unk> of the <unk> of the underlying <unk> is safe ."
+      ]
+    },
+    {
+      "epoch": 20,
+      "translations": [
+        "i thought you'd like to know . \"",
+        "what is the <unk> ?",
+        "- do you smoke and let me know ?",
+        "the <unk> of <unk> , the <unk> of <unk> is <unk> ."
+      ]
+    },
+    {
+      "epoch": 21,
+      "translations": [
+        "i thought it was a \" <unk> \" .",
+        "what ?",
+        "- do you know about the <unk> and the <unk> ?",
+        "the <unk> <unk> , the <unk> of the <unk> <unk> is a <unk> of <unk> ."
+      ]
+    },
+    {
+      "epoch": 22,
+      "translations": [
+        "i thought it was the \" b \" .",
+        "as a dog ?",
+        "- did you get some info on the scene ?",
+        "the <unk> , the <unk> , the <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 23,
+      "translations": [
+        "- i thought it was the beginning of thinking .",
+        "as a dog ?",
+        "- did you know that <unk> and <unk> ?",
+        "the <unk> , the <unk> <unk> , the <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 24,
+      "translations": [
+        "- i thought it was a \" <unk> \" .",
+        "as a as a <unk> ?",
+        "- did you take the <unk> off the shower and ?",
+        "the <unk> <unk> , i mean , i could have translated a <unk> of <unk> ."
+      ]
+    },
+    {
+      "epoch": 25,
+      "translations": [
+        "- i thought it was a \" <unk> \" .",
+        "as a <unk> ?",
+        "- are you drinking a drinking ?",
+        "<unk> , the middle east , <unk> , the <unk> of <unk> ."
+      ]
+    },
+    {
+      "epoch": 26,
+      "translations": [
+        "- i thought you said \" <unk> . \"",
+        "<unk> as a <unk> ?",
+        "- did you get a drinking drinking ?",
+        "<unk> , <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 27,
+      "translations": [
+        "- i thought it was a \" <unk> \" .",
+        "as a as a backup ?",
+        "- did you stop drinking and drinking ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 28,
+      "translations": [
+        "- i thought you were the <unk> .",
+        "is the <unk> running as a <unk> ?",
+        "- did you know if i get a better drinking ?",
+        "<unk> , the <unk> of the <unk> <unk> of <unk> cells are <unk> ."
+      ]
+    },
+    {
+      "epoch": 29,
+      "translations": [
+        "- i thought it was a \" <unk> \" .",
+        "as a <unk> ?",
+        "- did you bring drinking glasses and <unk> the <unk> ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 30,
+      "translations": [
+        "- i thought you'd be the <unk> .",
+        "the <unk> ?",
+        "- did you bring the drinking a drink ?",
+        "<unk> , the <unk> of the <unk> <unk> of <unk> acid ."
+      ]
+    },
+    {
+      "epoch": 31,
+      "translations": [
+        "i thought you could do it . \"",
+        "as a <unk> ?",
+        "- did you want a ride in the hearts and a <unk> ?",
+        "<unk> , <unk> , p . <unk> . . . and 14 of the royal <unk> ."
+      ]
+    },
+    {
+      "epoch": 32,
+      "translations": [
+        "- i thought you'd be a <unk> .",
+        "the <unk> ?",
+        "- did you get a <unk> on the <unk> ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+      ]
+    },
+    {
+      "epoch": 33,
+      "translations": [
+        "i thought you were gonna do it .",
+        "a <unk> ?",
+        "- did you get a drink ?",
+        "<unk> , the <unk> of the <unk> , the <unk> of the <unk> <unk> of the <unk> <unk> is a random frequency of the <unk> level ."
+      ]
+    },
+    {
+      "epoch": 34,
+      "translations": [
+        "i thought i was gonna say it .",
+        "is the <unk> running ?",
+        "- are you sure that <unk> and <unk> ?",
+        "<unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+      ]
+    },
+    {
+      "epoch": 35,
+      "translations": [
+        "- i thought it was a \" - \" <unk> . \"",
+        "is the <unk> as the hated .",
+        "- are you kidding me ?",
+        "<unk> , <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 36,
+      "translations": [
+        "- i thought it was the beginning of it .",
+        "as a <unk> ?",
+        "- did you get a drink ?",
+        "<unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 37,
+      "translations": [
+        "- i thought you'd die . \"",
+        "is the <unk> as close as the <unk> ?",
+        "- did you get a drink and <unk> ?",
+        "<unk> , the <unk> of the <unk> <unk> , the <unk> of the <unk> <unk> is a high - aged stomach ."
+      ]
+    },
+    {
+      "epoch": 38,
+      "translations": [
+        "i thought it was the <unk> of the compound .",
+        "is that the way as a <unk> ?",
+        "- are you still foot and the <unk> ?",
+        "the <unk> of the <unk> , the <unk> of the <unk> <unk> is a <unk> range of the <unk> ."
+      ]
+    },
+    {
+      "epoch": 39,
+      "translations": [
+        "- i thought you said \" it was \" . \"",
+        "is that a <unk> ?",
+        "- did you get a drink and then ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 40,
+      "translations": [
+        "- i thought you could do it . \"",
+        "is that a big deal ?",
+        "- did you get the wrong drink and drink ?",
+        "<unk> , the <unk> of the <unk> <unk> is a <unk> - <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 41,
+      "translations": [
+        "- i thought i'd say \" of \" .",
+        "is it the only way to <unk> ?",
+        "- is that a lot of <unk> or something ?",
+        "<unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+      ]
+    },
+    {
+      "epoch": 42,
+      "translations": [
+        "- i thought it was a <unk> .",
+        "is that the way ?",
+        "- is there a drink ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 43,
+      "translations": [
+        "thought i thought you were always thought .",
+        "what the hell is that ?",
+        "- are you trying to play a <unk> ?",
+        "<unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 44,
+      "translations": [
+        "- i thought you were a fucking slut .",
+        "the house ?",
+        "- are you sure or <unk> ?",
+        "<unk> , <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 45,
+      "translations": [
+        "- i thought you could be sick .",
+        "is she a little <unk> ?",
+        "- is that a trophy and the middle of the <unk> ?",
+        "<unk> , <unk> , <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 46,
+      "translations": [
+        "- i thought it was the beginning of that .",
+        "the range ?",
+        "- are you drinking a drink ?",
+        "<unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 47,
+      "translations": [
+        "thought i thought you were gonna do it . \"",
+        "- as long as you as the dog ?",
+        "- did you leave the kidnapping and <unk> ?",
+        "the <unk> <unk> of the assistant is a level of <unk> , the vehicle measures should be taken ."
+      ]
+    },
+    {
+      "epoch": 48,
+      "translations": [
+        "- i thought you were the <unk> .",
+        "- as long as the <unk> ?",
+        "- did you stop drinking and drink ?",
+        "the <unk> <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 49,
+      "translations": [
+        "thought i thought you could be the phoebe .",
+        "the way ?",
+        "- did you stop drinking and drink ?",
+        "<unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> ,"
+      ]
+    },
+    {
+      "epoch": 50,
+      "translations": [
+        "- i thought i'd be done .",
+        "what is the <unk> ?",
+        "- did you get a tan , please ?",
+        "<unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> ,"
+      ]
+    },
+    {
+      "epoch": 51,
+      "translations": [
+        "i thought it was the beginning of the beginning .",
+        "what is the film ?",
+        "- are you drinking a drink ?",
+        "<unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> ,"
+      ]
+    },
+    {
+      "epoch": 52,
+      "translations": [
+        "- i thought they'd be a <unk> .",
+        "as a scene ?",
+        "- are you drinking and drinking ?",
+        "<unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , p . 16 th , 1993"
+      ]
+    },
+    {
+      "epoch": 53,
+      "translations": [
+        "- i thought you'd be a <unk> .",
+        "what ?",
+        "- did you go to bed and drink ?",
+        "the top of the <unk> of the <unk> <unk> , the <unk> of the <unk> <unk> is faster ."
+      ]
+    },
+    {
+      "epoch": 54,
+      "translations": [
+        "- i thought it was a \" cellmate . \"",
+        "what the hell ?",
+        "- are you sure or drinking ?",
+        "<unk> , <unk> <unk> , <unk> <unk> of <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 55,
+      "translations": [
+        "- i thought it was the <unk> .",
+        "what the strategy ?",
+        "- are you trying to drink ?",
+        "<unk> , the <unk> of the <unk> , the <unk> of the <unk> <unk> is a <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 56,
+      "translations": [
+        "i thought i was gonna know that i was gonna be a good liar .",
+        "what is the purpose ?",
+        "- and i have a smoke ?",
+        "the <unk> <unk> , the <unk> of the <unk> <unk> , the effectiveness of <unk> and <unk> of the <unk> <unk> programme ."
+      ]
+    },
+    {
+      "epoch": 57,
+      "translations": [
+        "- i thought you were the one . \"",
+        "what the hell is she ?",
+        "- but why don't you have a drink ?",
+        "the <unk> , the <unk> of the <unk> <unk> is a <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 58,
+      "translations": [
+        "i thought i'd never thought that .",
+        "what the hell is she ?",
+        "- and you have a drinking - -",
+        "the <unk> <unk> , the <unk> <unk> , the <unk> <unk> , the <unk> of the <unk> university of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 59,
+      "translations": [
+        "thought i thought they'd be <unk> .",
+        "what the hell was that ?",
+        "- are you drinking or a drink ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 60,
+      "translations": [
+        "- i thought it was a <unk> of it .",
+        "as a diet ?",
+        "- or are you drinking a drink ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+      ]
+    },
+    {
+      "epoch": 61,
+      "translations": [
+        "i thought it was the beginning of the \" .",
+        "what is the way ?",
+        "- are you a <unk> or a drink ?",
+        "the <unk> <unk> , the <unk> <unk> of the <unk> <unk> represents a <unk> of <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 62,
+      "translations": [
+        "i thought i was a <unk> .",
+        "what kind of women ?",
+        "- you know , or a - <unk> ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 63,
+      "translations": [
+        "i thought they'd be the <unk> of it .",
+        "what is the <unk> ?",
+        "- are you busy a drink ?",
+        "<unk> , the <unk> <unk> , the voices of the east <unk> , of course , the voices of the surveillance frequency ."
+      ]
+    },
+    {
+      "epoch": 64,
+      "translations": [
+        "i thought you could be sick .",
+        "a little <unk> ?",
+        "- are you busy drinking or something ?",
+        "<unk> , the <unk> <unk> of the <unk> <unk> of <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 65,
+      "translations": [
+        "i thought they'd never thought it was the <unk> .",
+        "what ?",
+        "- you smoke ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 66,
+      "translations": [
+        "i thought they'd never be the <unk> .",
+        "what ?",
+        "- you know , and i smoke ?",
+        "<unk> , the <unk> <unk> , the <unk> of the <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 67,
+      "translations": [
+        "- i thought i was gonna do that .",
+        "as a scene ?",
+        "- no , smoke , are you drinking ?",
+        "<unk> , the <unk> of the fact that the <unk> of the <unk> <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 68,
+      "translations": [
+        "i thought you'd be the <unk> of the <unk> . \"",
+        "as a detective ?",
+        "- well , do you smoke the drinking and stuff ?",
+        "<unk> , the <unk> of the aircraft <unk> ."
+      ]
+    },
+    {
+      "epoch": 69,
+      "translations": [
+        "i thought you were <unk> by the \" . \"",
+        "as a detective ?",
+        "- you mean , what the fuck did you leave ?",
+        "<unk> <unk> , the <unk> of the <unk> <unk> . . . <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 70,
+      "translations": [
+        "i thought you were the <unk> , i would .",
+        "as a detective ?",
+        "- do you want a drink ?",
+        "<unk> , the <unk> of the <unk> <unk> , the <unk> of the <unk> <unk> of the <unk> <unk> are <unk> ."
+      ]
+    },
+    {
+      "epoch": 71,
+      "translations": [
+        "i thought that was the \" x \" . \"",
+        "what ?",
+        "- you didn't drink the drink ?",
+        "<unk> , the <unk> of the <unk> <unk> , the <unk> of the <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 72,
+      "translations": [
+        "i thought you were the <unk> , \"",
+        "what is the <unk> ?",
+        "- did you get the drink ?",
+        "<unk> , the <unk> of the <unk> <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 73,
+      "translations": [
+        "i thought you were a <unk> .",
+        "what is the way of the world ?",
+        "- are you drinking a drink ?",
+        "<unk> , the <unk> of the <unk> <unk> . . . . . . . . . . . . . . . . . . . . . . . ."
+      ]
+    },
+    {
+      "epoch": 74,
+      "translations": [
+        "i thought you were <unk> .",
+        "what is it ?",
+        "- drink you and drink ?",
+        "<unk> <unk> , the <unk> of the <unk> <unk> , the <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 75,
+      "translations": [
+        "i thought i was the <unk> , \" <unk> \" .",
+        "what is the way ?",
+        "- do you want to drink ?",
+        "<unk> , the <unk> of the <unk> <unk> , the <unk> of the <unk> <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 76,
+      "translations": [
+        "- i thought they'd play . \"",
+        "what is it ?",
+        "- drink , drink , do you want to drink ?",
+        "<unk> , the <unk> <unk> , the <unk> of the <unk> aircraft <unk> , <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 77,
+      "translations": [
+        "i thought it was the <unk> .",
+        "the <unk> ?",
+        "- drink you want ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 78,
+      "translations": [
+        "i thought you could be <unk> .",
+        "as a man ?",
+        "- drink you want to drink ?",
+        "<unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 79,
+      "translations": [
+        "- i thought it was the <unk> .",
+        "as a dog ?",
+        "- drink , drink ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 80,
+      "translations": [
+        "i thought it was a good thing , \" <unk> . \"",
+        "as a dog ?",
+        "- drink , drink and drink ?",
+        "<unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 81,
+      "translations": [
+        "- i thought it was a good - x cop .",
+        "the coffee ?",
+        "- didn't you drink ?",
+        "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+      ]
+    },
+    {
+      "epoch": 82,
+      "translations": [
+        "i thought you were the <unk> , \" united states . \"",
+        "the <unk> ?",
+        "- do you want to drink ?",
+        "<unk> <unk> <unk> <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 83,
+      "translations": [
+        "- i thought you were the <unk> . \"",
+        "what the hell is that ?",
+        "- do you want to drink ?",
+        "<unk> <unk> <unk> , the <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 84,
+      "translations": [
+        "- i thought it was the <unk> .",
+        "what the hell ?",
+        "- do you want to drink milk ?",
+        "<unk> <unk> , the <unk> of the <unk> <unk> , the <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 85,
+      "translations": [
+        "i thought it was the <unk> .",
+        "the <unk> ?",
+        "- do you want to drink ?",
+        "<unk> <unk> , the <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 86,
+      "translations": [
+        "- i thought it was the beginning .",
+        "is running the <unk> ?",
+        "- do you want to be angry and julia ?",
+        "<unk> <unk> , the <unk> of the <unk> <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 87,
+      "translations": [
+        "- i thought it was the <unk> .",
+        "the detective ?",
+        "- is there a drinking and drinking ?",
+        "<unk> <unk> , the <unk> of the <unk> <unk> <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 88,
+      "translations": [
+        "- i thought you were gonna know it was .",
+        "as a <unk> ?",
+        "- do you know , you drinking and drinking ?",
+        "<unk> <unk> , the <unk> of the <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 89,
+      "translations": [
+        "- i thought it was a good time .",
+        "the coffee ?",
+        "- is there any other drinking ?",
+        "<unk> <unk> <unk> <unk> <unk> , <unk> , <unk> <unk> <unk> <unk> to <unk> bacteria ."
+      ]
+    },
+    {
+      "epoch": 90,
+      "translations": [
+        "- i thought you could play it . \"",
+        "is that a logical way ?",
+        "- is there a drink ?",
+        "<unk> <unk> <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 91,
+      "translations": [
+        "i thought it was a <unk> .",
+        "as a little <unk> ?",
+        "- is there a drink , please ?",
+        "<unk> <unk> , the <unk> of the <unk> <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 92,
+      "translations": [
+        "i thought you could play it . \"",
+        "what the hell is that ?",
+        "- do you want to try and drink ?",
+        "<unk> <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+      ]
+    },
+    {
+      "epoch": 93,
+      "translations": [
+        "i thought you could run it through \" x - <unk> . \"",
+        "is that the little way ?",
+        "- do you want to try and drink ?",
+        "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 94,
+      "translations": [
+        "i thought it was a <unk> .",
+        "is that the <unk> ?",
+        "- did you hold your hand and drink ?",
+        "<unk> <unk> <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 95,
+      "translations": [
+        "- i thought it was a <unk> .",
+        "is that your <unk> ?",
+        "- is there any other drinking and drinking ?",
+        "the <unk> of the <unk> <unk> climate , the <unk> of the <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 96,
+      "translations": [
+        "- i thought it was the <unk> .",
+        "is that the <unk> ?",
+        "- do you want to drink ?",
+        "<unk> <unk> , the <unk> of the <unk> plant , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+      ]
+    },
+    {
+      "epoch": 97,
+      "translations": [
+        "- i thought it was the <unk> .",
+        "the <unk> ?",
+        "- did you smoke ?",
+        "<unk> , <unk> <unk> <unk> <unk> <unk> 400 <unk> ."
+      ]
+    },
+    {
+      "epoch": 98,
+      "translations": [
+        "- i thought it was the <unk> . \"",
+        "is that a <unk> ?",
+        "- is that a drink ?",
+        "<unk> <unk> , <unk> <unk> <unk> <unk> <unk> ."
+      ]
+    },
+    {
+      "epoch": 99,
+      "translations": [
+        "- i thought it was a <unk> .",
+        "is that a small time ?",
+        "- did you get your drink and drink ?",
+        "<unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> <unk> to <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+      ]
+    },
+    {
+      "epoch": 100,
+      "translations": [
+        "i thought it was the beginning of the <unk> . \"",
+        "is that your way to the <unk> ?",
+        "- do you want to have a drink ?",
+        "- <unk> , the <unk> of the <unk> <unk> . . . <unk> <unk> <unk> to the bridge ."
+      ]
+    }
+  ]
+}
